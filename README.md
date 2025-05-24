@@ -90,8 +90,9 @@ Users can create and manage posts across multiple social platforms, schedule the
 
 ## 📡 API Endpoints
 
-    > **All API requests must include the header:**
-    > `Accept: application/json`
+> **All API requests must include the header:**
+
+-   `Accept: application/json`
 
 ### 🔐 Authentication
 
