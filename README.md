@@ -157,7 +157,7 @@ Users can create and manage posts across multiple social platforms, schedule the
 ## 📹 Demo Video
 
 👉 **Demo video showing all features and UI in action will be added here**  
-📌 _[Add Google Drive or YouTube link after recording]_
+📌 [https://drive.google.com/file/d/1Rte5wU2AQipnUwChRh0o0Bxqwaze4iWu/view]
 
 ---
 
