@@ -1,4 +1,4 @@
-# 📅 Content Scheduler - Laravel Challenge
+# 📅 Content Scheduler
 
 A simplified content scheduling platform built using Laravel + Blade UI.  
 Users can create and manage posts across multiple social platforms, schedule them, and view insightful analytics — all with clean architecture and best practices.
