@@ -9,6 +9,7 @@ class ActivityLogRepository implements ActivityLogRepositoryInterface
 {
     public function getLog(int $userId)
     {
-        return ActivityLog::where('user_id', $userId)->get();
+        return ActivityLog::where('user_id', $userId)
+            ->orderByDesc('created_at')->get();
     }
 }
